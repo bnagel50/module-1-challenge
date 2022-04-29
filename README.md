@@ -1,4 +1,4 @@
-This is a code refactor for the Module 1 Challenge, aimed at increasing accessiblilty for Horiseon.
+This is a code refactor for the Module 1 Challenge, aimed at increasing accessibililty for Horiseon.
 
 # https://bnagel50.github.io/module-1-challenge/
 
